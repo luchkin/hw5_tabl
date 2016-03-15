@@ -1,0 +1,154 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.box1 {
+	margin: 0	auto;
+	height: 541px;
+	width: 500px;
+	background-color: black;
+}
+.headerbox1 {
+	margin: 0px 5px 5px 0px;
+	height: 45px;
+	width: 146px;
+	background-color: white;
+	float: left;
+}
+.headerbox2 {
+	margin: 0px 5px 5px 5px;
+	height: 45px;
+	width: 170px;
+	background-color: white;
+	float: left;
+}
+.headerbox3 {
+	margin: 0px 0px 5px 6px;
+	height: 45px;
+	width: 163px;
+	background-color: yellow;
+	float: left;
+}
+.vertikalbox {
+	height: 490px;
+	width: 58px;
+	clear: both;
+	float: left;
+
+}
+.vbox1 {
+	margin: 5px 5px 5px 0px;
+	height: 130px;
+	width: 52px;
+	background-color: white;
+}
+.vbox2 {
+	margin: 10px 5px 5px 0px;
+	height: 200px;
+	width: 52px;
+	background-color: white;
+}.vbox3 {
+	margin: 10px 5px 0px 0px;
+	height: 136px;
+	width: 52px;
+	background-color: yellow;
+}
+.redbox {
+	margin: 5px 5px 0px 5px;
+	float: left;
+	height: 265px;
+	width: 265px;
+	background-color: red;
+}
+.rightbox {
+	float: right;
+	height: 275px;
+	width: 163px;
+}
+.yellowbox {
+	margin: 5px 0px;
+	height: 127px;
+	width: 163px;
+	background-color: yellow;
+}
+.wbox1 {
+	width: 77px;
+	height: 130px;
+	margin: 5px 0px 0px 0px;
+	background-color: white;
+	float: left;
+}
+.wbox2 {
+	width: 77px;
+	height: 130px;
+	margin: 5px 0px 0px 0px;
+	background-color: white;
+	float: right;
+}
+.domino {
+	float: left;
+	height: 222px;
+	width: 134px;
+
+}
+.blackbox {
+	width: 136px;
+	height: 136px;
+}
+.whitebox {
+	height: 85px;
+	width: 136px;
+	background-color: white;
+}
+.endbox {
+	float: right;
+	width: 304px;
+	height: 217px;
+}
+.endright {
+	width: 130px;
+	height: 155px;;
+	float: left;
+}
+.endleft {	
+	width: 173px;
+	height: 185px;
+	float: left;
+}
+.wlbox1 {
+	width: 125px;
+	height: 55px;	
+	background-color: white;
+	float: left;
+	margin: 5px;
+}
+.wlbox2 {
+	width: 125px;
+	height: 55px;	
+	background-color: white;
+	float: left;
+	margin: 5px;
+
+}
+.wlbox3 {
+	width: 161px;
+	height: 62px;
+	background-color: white;
+	float: right;
+	margin: 5px 0px 5px 5px;
+}
+.wlbox4 {
+	width: 161px;
+	height: 97px;
+	background-color: blue;
+	float: right;
+	clear: both;
+	margin: 5px 0px 5px 5px;
+}
+.wlbox5 {
+	width: 300px;	
+	height: 31px;
+	background-color: white;
+	margin: 5px	5px 0px 5px;
+	clear: both;
+}
